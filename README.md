@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Simon Giovannangeli
 
 📊 **Data Analyst** based in London, with 17 years’ experience in operations and project management in the rail industry.  
-After leading national training and transformation projects at SNCF, I transitioned into data analytics through a **UK ENIC-recognised professional certification** (equivalent to a UK Bachelor's degree).  
+After leading national training and transformation projects at SNCF, I transitioned into data analytics through a UK ENIC-recognised professional certification (equivalent to a UK Bachelor's degree).  
 
 I transform real-world data into actionable insights and visual stories to support better decision-making.
 
