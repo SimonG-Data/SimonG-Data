@@ -12,7 +12,7 @@ I transform real-world data into actionable insights and visual stories to suppo
 - **Data tools**: Excel, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
 - **Visualisation**: Tableau, Excel, Power-Point  
 - **Databases**: MySQL 
-- **Others**: Jupyter, Google Colab, VSCode 
+- **Others**: Jupyter, Google Colab, VSCode, Git, GitHub
 
 ---
 
