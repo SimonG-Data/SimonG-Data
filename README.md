@@ -10,8 +10,8 @@ I transform real-world data into actionable insights and visual stories to suppo
 ## 🛠️ Skills & Tools
 - **Languages**: Python, SQL 
 - **Data tools**: Excel, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
-- **Visualisation**: Tableau, Power BI, Excel  
-- **Databases**: MySQL, PostgreSQL  
+- **Visualisation**: Tableau, Excel, Power-Point  
+- **Databases**: MySQL 
 - **Others**: Jupyter, Google Colab, VSCode 
 
 ---
